@@ -4,6 +4,8 @@ Este proyecto tiene la finalidad de gestionar las entradas y salidad de objetos 
 - Ser una herramienta eficaz para verificar rápidamente si algún objeto está o no dentro del inventario.
 - Mantener un registro de aquellos objetos que ya fueron extraídos. 
 
+###
+
 This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 20.2.0.
 
 ## Development server
