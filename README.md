@@ -7,7 +7,7 @@ Este proyecto tiene la finalidad de gestionar las entradas y salidad de objetos 
 ## Tecnologías a utilizar
 |  Tecnología | Descripción  |
 |---|---|
-| [Angular 21](https://angular.dev/overview) | Framework web que nos provee todo el ambiente de desarrollo necesario sin necesidad de instalar demasiadas librerías externas. Incluye herramientas de gestión de dependencias, pruebas, enrutamiento y comunicación con APIs, lo que reduce la necesidad de instalar librerías externas.  |
+| [Angular 21](https://angular.dev/overview) | Framework web que nos provee todo el ambiente de desarrollo necesario sin necesidad de instalar demasiadas librerías externas. Incluye herramientas de gestión de dependencias, pruebas, enrutamiento y comunicación con APIs.  |
 | [Tailwindcss](https://tailwindcss.com/docs/installation/using-vite) | Framework de css que ayudará en la implementación del diseño de la aplicación. Facilita la implementación de diseños responsivos y modernos mediante clases predefinidas |
 
 ## Desarrolladoras
